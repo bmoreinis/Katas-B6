@@ -1,0 +1,15 @@
+Here are the files at left: 
+
+1. index.html is the web page that chooses the script file to run. 
+2. script.js is where you build and test code. 
+3. done.js file is where you can paste code you've built.  Don't leave it in script.js, because then all the code will keep running, and you only want to run the new code you make to test it. 
+4. other js files (like varalertprompt.js) are examples of working code.
+5. style.css is for making the index.html look different - we're not up to that yet. 
+
+Here is the correct order of practicing commands: 
+
+1. alert (showing something in a pop-up)
+2. var (mixing string text and variables in an alert)
+3. prompt (asking users for variable values and including those in an alert)
+3. conditionals (if/else if/else) - these have not been added yet. 
+

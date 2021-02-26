@@ -5,6 +5,8 @@
 /* No Prompt */
 // make a string variable for color, set to your fave
 // alert "My favorite color is " color
+var color = "orange";
+alert("My favorite color is "+color);
 
 /* Prompt */
 // make a string variable for color, prompt user for it
